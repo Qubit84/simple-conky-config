@@ -7,4 +7,4 @@ My simple Conky configuration.
 ![Screenshot-conky2](https://user-images.githubusercontent.com/74354308/184686580-dfa1aee8-27e2-4f5f-8360-79b0256d14e1.png)
 
 ### Usage
-Just drop the filels into conky configuration directory i.e. '~/config/.conky/'
+Just drop the filels into conky configuration directory i.e. '~/.config/conky/'
